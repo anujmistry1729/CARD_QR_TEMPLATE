@@ -1,0 +1,34 @@
+body{
+    background-color: #D5E1EF;
+    font-family: 'Poppins';
+}
+/* text color B1B3BF */
+
+.card{
+    width: 250px;
+    background-color: #fff;
+    padding: 14px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px auto;
+}
+
+#card-qr-image{
+    border-radius: 10px;
+}
+
+#card-content{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0px 12px;
+}
+
+#card-title{
+    font-size: 20px;
+}
+
+#card-info{
+    font-size: 14px;
+}
